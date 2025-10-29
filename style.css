@@ -194,7 +194,7 @@ a.continue:hover{
     gap: .25rem;
     padding: 1.5rem;
     box-shadow: 0 1rem 1rem var(--shadow); 
-     border-radius: 0  0 .75rem .75rem;
+     border-radius: 0  0 1.5rem 1.5rem;
   }
 .blue-card h1{
   font-size: 2.5rem;
